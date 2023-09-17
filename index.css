@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: rgb(241, 241, 242);
+
+}
+
+.formation{
+    border:2px solid rgb(218, 192, 163);
+    border-radius: 10px;
+    border-width: 6px;
+}
+
+.Header {
+    background-image: url(images/tarkov.jpg);
+    border: 6px solid #333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+.aboutme{
+    text-align: start;
+    margin-left: 30px;
+}
+.cert{
+    margin-left: 30px;
+}
+
+.skill{
+    margin-left: 30px;
+}
+.subheader{ 
+    margin-left: 400px;
+}
+hr{
+    border-top: 1px solid rgb(218, 192, 163);
+    border-width: medium;
+}
+
+.links{
+    background-color: rgb(218, 192, 163);
+    text-align: center;
+    padding-top: 10px;
+  
+}
+.skill3{
+    text-align: start;
+}
